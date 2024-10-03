@@ -1,7 +1,7 @@
-# [DEMO] Configuring A4L Public Subnets and Jumpbox with Multi-Tier VPC Subnets Implementation
+# DEMO: Multi-Tier VPC Subnets Implementation & Configuring Public Subnets and Jumpbox 
 
 ## Overview
-In this **[DEMO]**, I set up a fully functioning VPC capable of supporting internet-facing applications, with a bastion host providing a secure ingress point to manage instances in private subnets.
+In this **DEMO**, I set up a fully functioning VPC capable of supporting internet-facing applications, with a bastion host providing a secure ingress point to manage instances in private subnets.
 
 ## Prerequisites
 - An AWS account with appropriate IAM permissions for VPC management: I used the management account from my previous demos.
